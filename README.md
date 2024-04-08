@@ -30,8 +30,7 @@ print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
 
-![image](https://github.com/Visalan-H/Swapping-two-values/assets/152077751/93f2a98b-d351-4487-8a8e-b733672ec221)
-
+![alt text](image.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
